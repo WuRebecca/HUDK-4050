@@ -17,7 +17,7 @@ ICE 4: [ICE 4](https://github.com/WuRebecca/HUDK-4050/blob/7b072eff9e4ae97acd4a3
 
 ICE 5: [ICE 5](https://github.com/WuRebecca/HUDK-4050/blob/44ff0041a2338f4d7395bb322116f2fbb5dc09a5/ICE%205.ipynb)
 
-ICE 6: [ICE 6]
+ICE 6: [ICE 6](https://github.com/WuRebecca/HUDK-4050/blob/0f08278e349e066eeddf1608ff4fe320ab36e373/ICE%206.ipynb)
 
 ICE 7: [ICE 7]
 
