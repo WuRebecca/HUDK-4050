@@ -1,7 +1,9 @@
 # HUDK-4050
 Here are the things that go into my portfolio:
 
-My reflective essay: [Reflective Essay](https://github.com/WuRebecca/HUDK-4050/blob/main/Reflection%20Essay.pdf)
+My reflective essay:
+
+[Reflective Essay](https://github.com/WuRebecca/HUDK-4050/blob/main/Reflection%20Essay.pdf)
 
 8 selected individual coding exercise records:
 
@@ -17,4 +19,6 @@ ICE 5: [ICE 5](https://github.com/WuRebecca/HUDK-4050/blob/44ff0041a2338f4d7395b
 
 4 analysis challenge assignment
 
-creative EDM assignment (simple project narrative and codes)
+Creative EDM Assignment:
+
+[Creative EDM Assignment]
