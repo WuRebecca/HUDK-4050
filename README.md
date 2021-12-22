@@ -1,9 +1,7 @@
 # HUDK-4050
 Here are the things that go into my portfolio:
 
-My reflective essay:
-
-[Reflective Essay](https://github.com/WuRebecca/HUDK-4050/blob/main/Reflection%20Essay.pdf)
+My reflective essay: [Reflective Essay](https://github.com/WuRebecca/HUDK-4050/blob/main/Reflection%20Essay.pdf)
 
 8 selected individual coding exercise records:
 
@@ -23,8 +21,6 @@ ACA 1: [ACA 1]
 
 ACA 2: [ACA 2](https://github.com/WuRebecca/HUDK-4050/blob/afdd0a43ef5d22e254df8b121052beeb9578a3e2/ACA%202.ipynb)
 
-Creative EDM Assignment:
-
-[Creative EDM Assignment](https://github.com/WuRebecca/HUDK-4050/blob/d30a5b82e36a993532e04ac7ddd4baf9b9ab8e9d/Creative%20EDM%20Assignment.pdf)
+Creative EDM Assignment: [Creative EDM Assignment](https://github.com/WuRebecca/HUDK-4050/blob/d30a5b82e36a993532e04ac7ddd4baf9b9ab8e9d/Creative%20EDM%20Assignment.pdf)
 
 [Creative EDM Assignment Presentation PowerPoint](https://github.com/WuRebecca/HUDK-4050/blob/e9acffc6b3d6a6065c39d28915ad3e28d1e02b39/Creative%20EDM%20Assignment%20-%20Presentation.pdf)
