@@ -22,3 +22,5 @@ ICE 5: [ICE 5](https://github.com/WuRebecca/HUDK-4050/blob/44ff0041a2338f4d7395b
 Creative EDM Assignment:
 
 [Creative EDM Assignment](https://github.com/WuRebecca/HUDK-4050/blob/d30a5b82e36a993532e04ac7ddd4baf9b9ab8e9d/Creative%20EDM%20Assignment.pdf)
+
+[Creative EDM Assignment PowerPoint](https://github.com/WuRebecca/HUDK-4050/blob/e9acffc6b3d6a6065c39d28915ad3e28d1e02b39/Creative%20EDM%20Assignment%20-%20Presentation.pdf)
