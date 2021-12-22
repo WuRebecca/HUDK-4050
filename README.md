@@ -7,6 +7,8 @@ My reflective essay: [Reflective Essay](https://github.com/WuRebecca/HUDK-4050/b
 
 ICE 0: [ICE 0](https://github.com/WuRebecca/HUDK-4050/blob/2b84a033254cc82f9f4ca5f03a27b69d5bd62eed/ICE%200.ipynb)
 
+ICE 1: [ICE 1](https://github.com/WuRebecca/HUDK-4050/blob/main/ICE%201.ipynb)
+
 4 analysis challenge assignment
 
 creative EDM assignment (simple project narrative and codes)
