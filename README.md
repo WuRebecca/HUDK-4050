@@ -29,7 +29,7 @@ ACA 1: [ACA 1](https://github.com/WuRebecca/HUDK-4050/blob/f064d760cfbe26e587666
 
 ACA 2: [ACA 2](https://github.com/WuRebecca/HUDK-4050/blob/afdd0a43ef5d22e254df8b121052beeb9578a3e2/ACA%202.ipynb)
 
-ACA 3: [ACA 3]
+ACA 3: [ACA 3](https://github.com/WuRebecca/HUDK-4050/blob/9fa373652cc35eaaa017109663223f7f21c7ad42/ACA%203.ipynb)
 
 ACA 4: [ACA 4](https://github.com/WuRebecca/HUDK-4050/blob/8a71ccf930c0d07c825c90e1b34b1a7dcc8c421f/ACA%204%20.ipynb)
 
