@@ -17,7 +17,11 @@ ICE 3: [ICE 3](https://github.com/WuRebecca/HUDK-4050/blob/f8da41de4cce61f880ed8
 
 ICE 5: [ICE 5](https://github.com/WuRebecca/HUDK-4050/blob/44ff0041a2338f4d7395bb322116f2fbb5dc09a5/ICE%205.ipynb)
 
-4 analysis challenge assignment
+4 analysis challenge assignments:
+
+ACA 1: [ACA 1]
+
+ACA 2: [ACA 2](https://github.com/WuRebecca/HUDK-4050/blob/afdd0a43ef5d22e254df8b121052beeb9578a3e2/ACA%202.ipynb)
 
 Creative EDM Assignment:
 
