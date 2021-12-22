@@ -13,6 +13,8 @@ ICE 2: [ICE 2](https://github.com/WuRebecca/HUDK-4050/blob/13bd236519b6354467a37
 
 ICE 3: [ICE 3](https://github.com/WuRebecca/HUDK-4050/blob/f8da41de4cce61f880ed803a20387711a92dae5b/ICE%203.ipynb)
 
+ICE 5: [ICE 5](https://github.com/WuRebecca/HUDK-4050/blob/44ff0041a2338f4d7395bb322116f2fbb5dc09a5/ICE%205.ipynb)
+
 4 analysis challenge assignment
 
 creative EDM assignment (simple project narrative and codes)
