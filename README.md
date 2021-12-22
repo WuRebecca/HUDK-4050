@@ -21,7 +21,7 @@ ICE 6: [ICE 6](https://github.com/WuRebecca/HUDK-4050/blob/0f08278e349e066eeddf1
 
 ICE 7: [ICE 7]
 
-ICE 8: [ICE 8]
+ICE 8: [ICE 8](https://github.com/WuRebecca/HUDK-4050/blob/5ebe7f7564b1d9b3566ff0888041b616aa0c5bd0/ICE%208.ipynb)
 
 4 analysis challenge assignments:
 
